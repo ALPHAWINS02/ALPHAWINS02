@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,<img align="centre" alt="Coding" width="100" src="news24.gif"> 
+<h1 align="center">Hi 👋,<img align="centre" alt="Coding" width="100" src="text-1667111275928.png"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphawins02&label=Profile%20views&color=0e75b6&style=flat" alt="alphawins02" /> </p>
 
 
