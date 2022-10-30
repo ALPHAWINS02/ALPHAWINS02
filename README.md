@@ -1,4 +1,4 @@
-<h1 align="center"><img align="centre" alt="Coding" width="1000" src="text-1667112021581.png"> 
+<img align="centre" alt="Coding" width="1000" src="text-1667112021581.png"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphawins02&label=Profile%20views&color=0e75b6&style=flat" alt="alphawins02" /> </p>
 
 
