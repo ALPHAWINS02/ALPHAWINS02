@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm ALPHA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/EPLMvPKNeaDFgXdL6">
-
+<h1 align="center">Hi 👋,<img align="centre" alt="Coding" width="100" src="news24.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphawins02&label=Profile%20views&color=0e75b6&style=flat" alt="alphawins02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphawins02" alt="alphawins02" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="news24.gif">
+
 
 <p align="left"> <a href="https://twitter.com/yashyadav2222" target="blank"><img src="https://img.shields.io/twitter/follow/yashyadav2222?logo=twitter&style=for-the-badge" alt="yashyadav2222" /></a> </p>
 
 - 📫 How to reach me **alphawins100times@gmail.com**
+- ✨Trying to make (***"Hello world"***) the new convention to greet
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
