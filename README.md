@@ -20,7 +20,7 @@
 <a href="https://dev.to/https://dev.to/alphawins02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/alphawins02" height="30" width="40" /></a>
 <a href="https://twitter.com/yashyadav2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashyadav2222" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-yadav22-alpha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-yadav22-alpha/" height="30" width="40" /></a>
-<a href="https://instagram.com/the_yash.yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="17.07.alpha" height="30" width="40" /></a>
+
 </p>
 <hr>
 
