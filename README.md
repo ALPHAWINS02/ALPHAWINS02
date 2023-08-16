@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/yashyadav2222" target="blank"><img src="https://img.shields.io/twitter/follow/yashyadav2222?logo=twitter&style=for-the-badge" alt="yashyadav2222" /></a> </p>
 
 - 👨‍💻  ***TECHNOMANIC PERSON***
-- 📫 How to reach me **alphawins100times@gmail.com**
+- 📫 How to reach me **yadavyash438@gmail.com**
 - 🫱🏽‍🫲🏻Trying to make (***"Hello world"***) the new convention to greet
 <br>
 
